@@ -9,6 +9,14 @@
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardo-27-dev&show_icons=true&theme=dark&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=leonardo-27-dev&theme=dark)
 
+## 🚀 Sobre mim
+
+- 🎓 **Formação**: Desenvolvedor FullStack  
+- 💻 **Atualmente**: Focado em Backend  
+- 📚 **Habilidades**: C#, .NET Core, .NET Framework, SQL Server, Angular, React, RabittMQ, Azure
+- 🌍 **Idiomas**: Português (nativo), Inglês (intermediário), Espanhol (intermediário)  
+
+
 ## 🛠 Tecnologias e Ferramentas
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -16,6 +24,8 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 ## 🔥 Projetos Destacados
 - [Application-jQuery-and-.NET](https://github.com/leonardo-27-dev/Application-jQuery-and-.NET)
