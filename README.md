@@ -21,7 +21,7 @@ Sou **Desenvolvedor Full Stack & Mobile** com forte experiência na criação de
 - 💻 **Especialidades:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Mensageria (RabbitMQ) e Integrações Cloud (AWS/Azure).
 - 📱 **Mobile & TV:** Kotlin Multiplatform (KMP), Compose Multiplatform, Android TV nativo (MVVM, Koin, Coroutines), React Native (Expo).
 - ⚙️ **Qualidade & DevOps:** Testes unitários/E2E (xUnit, Jest), CI/CD pipelines (Azure Pipelines), Docker e Git Workflow.
-- 🌍 **Idiomas:** Português (nativo), Inglês (intermediário), Espanhol (intermediário).
+- 🌍 **Idiomas:** Português (nativo), Inglês (basico)
 
 ---
 
